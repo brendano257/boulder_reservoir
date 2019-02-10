@@ -1,0 +1,34 @@
+Sample Time (s)	600.000000
+Sample Flow (V)	1.000000
+Sample Type	5.000000
+Backflush Time (s)	180.000000
+Desorb Temp	290.000000
+Flash Heat Time (s)	1.000000
+Inject Time (s)	30.000000
+Bakeout Temp	325.000000
+Bakeout Time (s)	40.000000
+Carrier Flow SP (V)	2.500000
+	0.000000
+Current Sample #	36.000000
+Sample P (psi)	10.876215
+GC Head P (psi)	7.075598
+WT T @ sample start	-44.291234
+Ads Trap T @ sample start	-40.241234
+	0.000000
+2019028124857	28124857.000000
+Sample P (psi)	9.615901
+Sample Flow (V)	0.999231
+WT T @ sample end	-44.849201
+Ads Trap T @ sample end	-39.909124
+	0.000000
+Trap Temp @ FH	14.111234
+GC Start Temp	39.461234
+Trap Temp @ inject end	290.6189012
+Battery V @ inject end	12.4512324
+Trap Heat Out @ inject end	53.300000
+Trap Temp @ bakeout end	324.931234
+Battery V @ bakeout end	11.682109
+Trap Heat Out @ bakeout end	63.391234
+WT Hot Temp	40.38386
+GC Head P1 (psi)	11.992300
+GC Oven T	204.171924
